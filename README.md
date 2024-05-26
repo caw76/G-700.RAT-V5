@@ -1,6 +1,9 @@
 # G-700.RAT-V5
 Advanced Android RAT
 #### [More functions & Demo](https://t.me/G700_RAT)
+
+## [More functions & Demo](https://t.me/G700_RAT)
+
 - Quick Apk Building
 - 25+ Wallets injections
 - 650+ Banking injections
@@ -32,3 +35,5 @@ Advanced Android RAT
 - And More functions
 
 #### [More functions](https://t.me/G700_RAT)
+
+## [More functions](https://t.me/G700_RAT)
