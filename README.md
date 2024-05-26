@@ -1,8 +1,8 @@
 # G-700.RAT-V5
 Advanced Android RAT
-#### [More functions & Demo](https://t.me/G700_RAT)
+#### [more information & Demo](https://t.me/G700_RAT)
 
-## [More functions & Demo](https://t.me/G700_RAT)
+## [Telegram channel](https://t.me/G700_RAT)
 
 - Quick Apk Building
 - 25+ Wallets injections
@@ -34,6 +34,6 @@ Advanced Android RAT
 - Dropper/apk injector / apk Crypter
 - And More functions
 
-#### [More functions](https://t.me/G700_RAT)
+#### [G-700 about(https://t.me/G700_RAT)
 
-## [More functions](https://t.me/G700_RAT)
+## [Vedios & Demo](https://t.me/G700_RAT)
